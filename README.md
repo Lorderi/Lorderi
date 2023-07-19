@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/EdT0rfeMLYPKbdzQ3r/giphy.webp" width="100"/>
+</div>
+
 <!--
 **Lorderi/Lorderi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
