@@ -11,6 +11,7 @@
       <img src="https://img.shields.io/badge/hh.ru-red" alt="hh.ru Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=Lorderi&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!--
