@@ -12,7 +12,11 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Lorderi&style=flat-square&color=blue" alt=""/>
+  <img src="https://www.codewars.com/users/Lorderi/badges/large" alt=""/>
 </div>
+
+
+
 
 ### :man_technologist: About Me :
 - 😄 I’m a Junior Developer from Russia.
