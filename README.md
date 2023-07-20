@@ -22,14 +22,6 @@
 - 🔭 I’m currently working on projects in C++ and the QT framework
 - 🌱 I’m currently learning C++ and Java in the future
 
-<a href="https://www.codewars.com/users/Lorderi">
-  <img src="https://www.codewars.com/users/Lorderi/badges/large" alt=""/>
-</a>
-
-<a href="https://leetcode.com/Lorderi/">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FLorderi&logo=leetcode&logoColor=yellow" alt=""/>
-</a>
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg" title="Gitlab" **alt="Gitlab" width="40" height="40"/>
@@ -46,6 +38,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lorderi)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorderi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://www.codewars.com/users/Lorderi">
+  <img src="https://www.codewars.com/users/Lorderi/badges/large" alt=""/>
+</a>
+
+<a href="https://leetcode.com/Lorderi/">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FLorderi&logo=leetcode&logoColor=yellow" alt=""/>
+</a>
 
 <!--
 ### Hi there 👋
