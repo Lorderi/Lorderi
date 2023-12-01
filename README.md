@@ -15,13 +15,11 @@
   
 </div>
 
-
-
 ### :man_technologist: About Me :
 - 😄 I’m a Junior Developer from Russia.
-- 🔭 I’m currently working on projects in C++ and the QT framework
-- 🌱 I’m currently learning C++ and Java in the future
-
+- 🔭 I’m currently working on projects in C++ and the QT framework, Java, Kotlin
+- 🌱 I’m currently learning C++, Java, Kotlin (Android Studio)
+  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg" title="Gitlab" **alt="Gitlab" width="40" height="40"/>
