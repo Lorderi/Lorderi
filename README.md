@@ -37,13 +37,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorderi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://www.codewars.com/users/Lorderi">
-  <img src="https://www.codewars.com/users/Lorderi/badges/large" alt=""/>
-</a>
 
-<a href="https://leetcode.com/Lorderi/">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FLorderi&logo=leetcode&logoColor=yellow" alt=""/>
-</a>
 
 <!--
 ### Hi there 👋
