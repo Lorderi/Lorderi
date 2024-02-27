@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e473qpdsvdvx4kcr4l3eatwy1u6unli2rm9i1qepdvi&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
+<!--   <img src="https://media0.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e473qpdsvdvx4kcr4l3eatwy1u6unli2rm9i1qepdvi&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/> -->
   
   <div id="badges">
     <a href="http://www.linkedin.com/in/artemiy-bokov-4a5753249">
