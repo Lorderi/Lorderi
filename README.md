@@ -17,8 +17,8 @@
 
 ### :man_technologist: About Me :
 - 😄 I’m a Junior Developer from Russia.
-- 🔭 I’m currently working on projects in C++ and the QT framework, Java, Kotlin
-- 🌱 I’m currently learning C++, Java, Kotlin (Android Studio)
+- 🔭 I’m currently working on projects in Kotlin (did pojects on C++ and the QT framework)
+- 🌱 I’m currently learning Kotlin (Android Studio) (studied C++, Java)
   
 ### :hammer_and_wrench: Languages and Tools :
 <div>
